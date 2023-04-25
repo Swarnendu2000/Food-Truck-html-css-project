@@ -1,0 +1,49 @@
+body {
+    background-color:bisque;
+}
+h1 {
+    color: black;
+    font-size: 50px;
+    text-align: center;
+    text-transform: uppercase;
+}
+.Picture {
+    text-align: center; 
+}
+img{
+    border: 10px solid white;
+}
+#subline{
+    color:darkred;
+    font-size: 30px;
+    font-family: 'Libre Baskerville', serif;
+font-family: 'Mulish', sans-serif;
+}
+.Main{
+    border:1px solid black;
+}
+
+/*CSS for the Menu */
+#Menu {
+    text-align: center;
+}
+#Picchef {
+    border-radius: 50%;
+}
+/*About Us page*/
+#AboutUs{
+    background-color: rgb(96, 128, 125);
+}
+#About{
+    color: black;
+    font-weight: 700;
+    text-align: center;
+    border: 5px solid black;
+    padding: 30px;
+}
+div[class="About"]{
+    text-align: center;
+}
+img[class="About"] {
+    border-radius: 50%;
+}
